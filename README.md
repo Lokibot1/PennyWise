@@ -2,6 +2,8 @@
 SPA 2 Weeks Project for IPT while trying to learn Vue framework xDD.
 Basic CRUD and standard graphs for the dashboard, and I learned doing dark mode here, the last project of the 2nd Year College.
 
+"Originally developed with @https://github.com/almerleoalmazan as our mentor and https://github.com/codeut182 as our backend developer, this version includes my contributions and modifications."
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.

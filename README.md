@@ -73,11 +73,8 @@ pnpm preview
 yarn preview
 
 ```
-Originally developed with @https://github.com/almerleoalmazan as our mentor and https://github.com/codeut182 as our backend developer, this version is just the Frontend.
-
-
-# bun
-bun run preview
-```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+Originally developed with @https://github.com/almerleoalmazan as our mentor and https://github.com/codeut182 as our backend developer, this version is just the Frontend.
